@@ -37,8 +37,12 @@ If you or somebody you know is in immediate danger, call your local emergency ph
 ## Self Harm
 - 1–800-DONT-CUT (366–8288)
 
-## Rape and Abuse
+## Rape and Sexual Abuse
 - 800-656-HOPE (4673) 
+
+## Domestic Violence Hotline 
+- https://www.thehotline.com/
+** Veiw in Edge Browser! If in Edge you can press ESC on your keyboard to rapidly exit the site.
 
 ## Other Resources 
 - 7 Cups of Tea
