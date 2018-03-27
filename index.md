@@ -41,8 +41,9 @@ If you or somebody you know is in immediate danger, call your local emergency ph
 - 800-656-HOPE (4673) 
 
 ## Domestic Violence Hotline 
-- https://www.thehotline.com/
-** Veiw in Edge Browser! If in Edge you can press ESC on your keyboard to rapidly exit the site.
+- https://www.thehotline.org/
+"Safety Alert: Computer use can be monitored and is impossible to completely clear. If you are afraid your internet usage might be monitored, call the National Domestic Violence Hotline at 1−800−799−7233 or TTY 1−800−787−3224. Users of web browser Microsoft Edge will be redirected to Google when clicking the “X” or “Escape” button." - Hotline
+
 
 ## Other Resources 
 - 7 Cups of Tea
